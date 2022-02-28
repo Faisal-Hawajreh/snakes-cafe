@@ -7,6 +7,7 @@ print(
         **    Welcome to the Snakes Cafe!   **
         **    Please see our menu below.    **
         **
+        ** To Show your Order, type "bill" **
         ** To quit at any time, type "quit" **
         **************************************
         Appetizers
